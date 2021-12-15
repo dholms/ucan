@@ -1,4 +1,4 @@
-module github.com/qri-io/ucan
+module github.com/dholms/ucan
 
 go 1.15
 
@@ -10,6 +10,7 @@ require (
 	github.com/multiformats/go-multibase v0.0.3
 	github.com/multiformats/go-multihash v0.0.14
 	github.com/multiformats/go-varint v0.0.6
+	github.com/qri-io/ucan v0.0.0-20210908004355-a725af2c2ab3
 	golang.org/x/crypto v0.0.0-20210322153248-0c34fe9e7dc2 // indirect
 	golang.org/x/sys v0.0.0-20210403161142-5e06dd20ab57 // indirect
 )
